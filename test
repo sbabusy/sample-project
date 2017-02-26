@@ -1,0 +1,1 @@
+galen check index.gspec --url http://10.74.67.57/vzwebd8/ --size 1024x768 --htmlreport reports -Dwebdriver.chrome.driver=chromedriver.exe
